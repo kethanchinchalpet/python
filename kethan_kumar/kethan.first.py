@@ -52,7 +52,7 @@
 
 #example 8
 
-age = 20
+# age = 20
 
 
 # if age == 20:
