@@ -87,7 +87,7 @@
 
 # print(f"Area of circle: {a}")
 
-#example 9
+#example 9 
 
 # a = int(input("enter value of a: "))
 
@@ -106,4 +106,3 @@
 # root2 = (-b + (d**(0.5)))/2*a
 
 # print("Roots:", (root1, root2))
-
